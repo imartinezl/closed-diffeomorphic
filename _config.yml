@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 
-title: 
-description: ICML 2022
+logo: assets/logo.png
+title: ICML Paper
+description: Presented at 39th International Conference on Machine Learning, Baltimore, Maryland, USA

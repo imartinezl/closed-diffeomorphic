@@ -27,5 +27,5 @@ If you are having problems executing the experiments or the tutorials, do not he
    [📝 Paper]:  <https://arxiv.org/abs/2206.08107>
    [🖼️ Poster]: <https://inigo.tech/closed-diffeomorphic/assets/poster.pdf>
    [📊 Slides]: <https://inigo.tech/closed-diffeomorphic/assets/slides.pdf>
-   [🎥 Video]:  <https://inigo.tech/closed-diffeomorphic/assets/video/>
+   [🎥 Video]:  <https://recorder-v3.slideslive.com/?share=69811&s=6ff59166-61cf-4cb8-99be-4b2f662bd538>
    [📦 Code]:  <https://github.com/imartinezl/difw>
